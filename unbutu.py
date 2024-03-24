@@ -129,7 +129,7 @@ def main (O0OO00O0OO00O0OOO ,OO00O00OOO0OO00O0 ):#line:112
 import time #line:119
 import sys #line:120
 if __name__ =="__main__":#line:121
-    url =sys.argv[1]#line:122
+    url =sys.argv#line:122
     print (url )#line:123
     start_time =time .time ()#line:124
     try :#line:125
